@@ -1,0 +1,103 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('images/flamingo-background-design-tropical-flowers-vector-24408494.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 861px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 502px;
+  min-height: 816px;
+  height: auto;
+  margin: 150px auto 60px 265px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 118px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  background-image: none;
+  font-family: Alegreya;
+  font-size: 1.125rem;
+  margin: 60px 7px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Amarante;
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 67.4% 50%;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: 218px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    min-height: 650px;
+    margin-left: 38px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    min-height: 599px;
+    margin-top: 108px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 9px;
+    padding-bottom: 21px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    font-family: Alegreya SC;
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 2.25rem;
+    width: auto;
+    font-family: Great Vibes;
+    font-weight: 700;
+    margin-top: 0;
+  }
+}
